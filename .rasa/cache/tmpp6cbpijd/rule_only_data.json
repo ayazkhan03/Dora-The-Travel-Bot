@@ -1,0 +1,7 @@
+{
+  "rule_only_slots": [],
+  "rule_only_loops": [
+    "user_info_form",
+    "simple_booking_form"
+  ]
+}

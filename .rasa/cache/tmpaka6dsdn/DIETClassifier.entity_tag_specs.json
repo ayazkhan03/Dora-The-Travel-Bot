@@ -1,0 +1,44 @@
+[
+  {
+    "tag_name": "entity",
+    "ids_to_tags": {
+      "1": "B-date",
+      "2": "I-date",
+      "3": "L-date",
+      "4": "U-date",
+      "5": "B-destination",
+      "6": "I-destination",
+      "7": "L-destination",
+      "8": "U-destination",
+      "9": "B-name",
+      "10": "I-name",
+      "11": "L-name",
+      "12": "U-name",
+      "13": "B-source",
+      "14": "I-source",
+      "15": "L-source",
+      "16": "U-source",
+      "0": "O"
+    },
+    "tags_to_ids": {
+      "B-date": 1,
+      "I-date": 2,
+      "L-date": 3,
+      "U-date": 4,
+      "B-destination": 5,
+      "I-destination": 6,
+      "L-destination": 7,
+      "U-destination": 8,
+      "B-name": 9,
+      "I-name": 10,
+      "L-name": 11,
+      "U-name": 12,
+      "B-source": 13,
+      "I-source": 14,
+      "L-source": 15,
+      "U-source": 16,
+      "O": 0
+    },
+    "num_tags": 17
+  }
+]
